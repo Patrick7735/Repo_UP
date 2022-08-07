@@ -1,2 +1,3 @@
 This is the UPstream repository
 Patrick added second line.!!
+Feature added third line (Merge Error)
